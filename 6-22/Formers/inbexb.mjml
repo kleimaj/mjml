@@ -1,0 +1,416 @@
+<mjml lang="en">
+    <mj-head>
+        <mj-title>Plain Green</mj-title>
+        <mj-breakpoint width="420px" />
+        <mj-font name="FontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <mj-attributes>
+        <mj-text padding="0px 0px 0px 0px" align="center" color="#000000" font-family="Arial, Tahoma,Verdana" font-size="16px" />
+        <mj-image padding="0px 0px 0px 0px" />
+        <mj-table padding="0px 0px 0px 0px" line-height="0px" font-family="Arial, Tahoma,Verdana" font-size="16px" />
+        </mj-attributes>
+        <mj-style>
+        .hide-on-desktop {
+            display: none !important;
+            height: 0px !important;
+            mso-hide: all !important;
+        }
+        .hide-on-Outlook-desktop {
+            mso-hide: all !important;
+        }
+         .hide-on-desktop-outlook * {
+            mso-padding-alt: 0px !important;
+            mso-hide: all !important;
+        }   
+        [ class="x_margin-on-desktop-outlook-com"] * {
+            margin-bottom: 100px;
+        }
+        [ class="x_hide-on-desktop-outlook-com"] * {
+            display: none !important;
+            height: 0px !important;
+            mso-hide: all !important;
+        }
+        .fname-block {
+            text-align:center;
+        }
+       
+       .name h1 {
+            font-size: 47px;
+        }
+        .footer-block {
+            padding: 0 70px 0 70px !important;
+        }
+        .advertisment {
+            padding: 0px 0px 0px 70px !important;
+        }
+        .check-fix  {
+            width: 10% !important;
+        }
+        .footer-bottom {
+            padding: 0px 70px 0px 0px;
+        }
+        .trust p {
+            font-size: 29px;
+            line-height: 37px;
+        }
+        .remember-block , .knowblock {
+            padding: 0px 0px 0px 70px !important;
+        }
+        .money-block {
+             padding: 0px 0px 0px 60px !important;
+        }
+        .f-bottom {
+            text-align:left;
+        }
+       
+        @media only screen and (max-width: 420px){
+           .mobile-hidden {
+       display: none !important;
+       mso-hide:all;
+       }
+            .making-space div {
+                height: 0 !important;
+            }
+            .fname-block div {
+                text-align:center !important;
+            }
+            .money-block p {
+                font-size: 25px !important;
+                line-height:33px !important;
+            }
+            .money-block {
+                padding: 0px 0px 0px 34px !important;
+            }
+            .knowblock {
+                text-align: center;
+                padding: 0 !important;
+            }
+            .knowblock div {
+                text-align: center !important; 
+            }
+            .knowblock br {
+                display:none !important;
+            }
+            .footer-block.live-section {
+                padding: 24px 0 !important;
+            }
+            /* mobile code goes here */
+            .hide-on-mobile {
+                display: none !important;
+                height: 0px !important;
+                mso-hide: all !important;
+            }
+            .show-on-mobile {
+                display: inherit !important;
+                height: inherit !important;
+            }
+            .hide-on-mobile {
+                display: none !important;
+                height: 0px !important;
+                mso-hide: all !important;
+            }
+            .remember-block p br {
+                display: block !important;
+            }
+            .name h1 {
+                font-size: 32px;
+            }
+            .trust p {
+                font-size: 25px;
+                line-height: 30px;
+            }
+            .fname-block p {
+                text-align:center !important;
+                font-size: 25px;
+            }
+            .width {
+                width: 100%;
+            }
+            .abc {
+                padding: 0 15px;
+            }
+           
+            .name-block {
+                text-align:center;
+                padding: 0 30px 0 30px;
+            }
+            .name-block p br {
+                display : none;
+            }
+            .name-block tr td {
+               padding: 0px 0px 0px 0px !important;
+            }
+            .fname-block {
+                text-align:center;
+                padding: 0 !important;
+            }
+            
+            .main-block {
+                padding: 0 10px;
+            }
+            .name {
+                font-size: 25px !important;
+            }
+            .footer-block {
+                padding:  0 15px !important;
+            }
+            .advertisment p {
+                text-align: center !important;
+            }
+            .check-fix  {
+                width: 10% !important;
+            }
+            .copyright-fix {
+                width: 100% !important;
+            }
+            .icon-fix {
+                width: 15% !important;
+            }
+            .footer-bottom {
+                padding: 0 !important;
+            }
+            .custom-spac div {
+                height: 27px !important;
+                line-height: 27px !important;
+            }
+            .click-here {
+                padding: 0 20px 0 0 !important;
+            }
+            .remember-block {
+                padding: 0 !important;
+            }
+            .f-bottom {
+                padding: 0 15px 30px !important;
+            }
+            .f-bottom tr td {
+                padding: 0px  !important;
+            }
+            .offer-block  {
+                padding: 0 50px !important;
+            }
+            .know-block {
+                padding: 0 23px !important;
+            }
+            .trust {
+                padding: 0 42px !important;
+            }
+            .offer-block br, .trust br, .know-block br {
+                display:none;
+            }
+            .remember-block p {
+                text-align: center !important;
+            }
+            .logo-design {
+                padding: 0 0 10px !important;
+            }
+            .people-block div{
+                text-align: center !important;
+            }
+            .green-logo tr td {
+                padding: 5px 0 0 !important;
+            }
+            .white-logo {
+                padding: 0px 40px 0px 0px !important;
+            }
+            .logo-div div {
+                height: 50px !important;
+            }
+        }
+        </mj-style>
+    </mj-head>
+    <mj-body  background-color="#EFEFEF"  width="600px">
+        <mj-wrapper padding="0px 0px 0px 0px" background-color="#ffffff">
+            <mj-section padding="0px 0px 0px 0px">
+          <mj-column>
+              <mj-text color="#ffffff">Funding you need with the fast service you deserve.</mj-text>
+              </mj-column>
+          </mj-section>
+           <mj-section padding="0px 0px 0px 0px">
+        <mj-group width="100%">
+            <mj-column width="50%" >
+            <mj-spacer height="9px"></mj-spacer>
+            <mj-image href="https://plaingreenloans.com/viprewards" align="center" width="96px" src="[offer_level_logo]" alt="Plain green loyalty logo" />
+          </mj-column>
+          <mj-column width="50%" >
+            <mj-text color="#4C9B2F" font-size="16px" align="left" padding="8px 20px 0px 10px">
+              
+              <p style="color:#707070;   line-height:20px;">
+                <span style="font-weight: 700;">VIP:</span>  [Fname] [Lname]
+              </p>
+              <p style="color:#707070; line-height:20px;">
+                <span style="font-weight: 700;">CREDIT LIMIT:</span> $[next_offer_amount]
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      </mj-wrapper>
+      <mj-wrapper padding="0px 0px 0px 0px"  background-color="#fff">
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column>
+        <mj-image alt="visual-element" src="http://sendy.yourcreditninja.com/sendy/uploads/1686599001.png"></mj-image>
+        </mj-column>
+        </mj-section>
+        <mj-section padding="0px 0px 0px 0px">
+          <mj-column>
+                    <mj-spacer css-class="logo-div" height="70px"></mj-spacer>
+                    <mj-image href="https://www.plaingreenloans.com/" css-class="white-logo" alt="Plain Green logo" padding="0px 70px 0px 0px" align="right" width="157px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686596189.png"></mj-image>
+                </mj-column>
+        </mj-section>
+        <mj-section  padding="0px 0px 0px 0px" text-align="left">
+                <mj-column width="70%">
+                    <mj-spacer css-class="custom-spac" height="28px"></mj-spacer>
+                    <mj-text css-class="money-block name" align="left" padding="0px 0px 0px 0px"  line-height="47px" font-weight="bold" color="#000">
+                    <h1 style="margin:0;">[Fname],</h1>
+                    </mj-text>
+                    <mj-spacer height="15px"></mj-spacer>
+                    <mj-text  color="#000" css-class="money-block" font-size="25px" line-height="32px" align="left" padding="0px 0px 0px 0px">
+                       <p style="margin:0;">a surprise expense doesn’t wait for regular business hours.</p> 
+                    </mj-text>
+                  
+                </mj-column>
+            </mj-section>
+           <mj-section  padding="0px 0px 0px 0px" >
+                <mj-column width="45%" vertical-align="middle">
+                  <mj-text color="#000" css-class="money-block" font-size="16px" line-height="21px" align="left" padding="0px 0px 0px 0px"><p style="margin:10 0 0 0 ;">That’s why we offer VIP customers like you Faster Funding to your debit card 24/7. <b>You could have the cash you need in 30 minutes or less, even on weekends.*</b></p> </mj-text>
+                    <mj-spacer height="35px"></mj-spacer>
+                    <mj-image href="https://plaingreenloans.com/account/login" alt="Login" css-class="money-block" padding="0px 0px 0px 0px" align="left" width="201px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686601298.png"></mj-image>
+                </mj-column>
+                <mj-column width="55%" css-class="width" vertical-align="middle">
+                    <mj-image padding="0px 0px 0px 0px" alt="2023 Goals" align="right"  width="275px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686601339.png"></mj-image>
+                </mj-column>
+            </mj-section>
+      </mj-wrapper>
+      <mj-wrapper padding="0px 0px 0px 0px">
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column><mj-image alt="visual element" src="http://sendy.yourcreditninja.com/sendy/uploads/1684347890.png"></mj-image></mj-column></mj-section></mj-wrapper>
+      
+      <mj-wrapper padding="0px 0px 0px 0px" background-color="#4C9B2F">
+            
+            <mj-section  padding="0px 0px 0px 0px" text-align="left">
+        <mj-column width="100%" padding="30px 20px">
+              <mj-text color="#fff" font-weight="bold" font-size="23px" line-height="26px">
+          It’s easy to get Faster Funding right<br> 
+from your smartphone or computer:
+          </mj-text>
+              <mj-image padding="30px 0px 15px 0px" width="39px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686602154.png" alt="1"></mj-image>
+          <mj-text color="#fff" font-size="19px" line-height="22px">
+          Log in to your account
+          </mj-text>
+          <mj-image padding="30px 0px 15px 0px" width="39px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686602266.png" alt="2"></mj-image>
+          <mj-text color="#fff" font-size="19px" line-height="22px">
+          Apply for your loan and get a<br/> fast approval decision
+          </mj-text>
+          <mj-image padding="30px 0px 15px 0px" width="39px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686602282.png" alt="1"></mj-image>
+          <mj-text color="#fff" font-size="19px" line-height="22px">
+          Select Funding to Debit Card, e-sign your loan<br/> 
+documents and get funds within 30 minutes*
+          </mj-text>
+          <mj-image width="230px" href="https://plaingreenloans.com/account/login" padding="20px 0px 0px 0px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686602558.png" alt="Get Started" ></mj-image>
+              </mj-column>
+        </mj-section>
+        </mj-wrapper>
+       
+        <mj-wrapper padding="0px 0px 0px 0px" background-color="#4C9B2F">
+            
+            <mj-section  padding="0px 0px 0px 0px" background-color="#fff">
+                <mj-column>
+                    <mj-spacer css-class="making-space" height="60px"></mj-spacer>
+                    <mj-text  css-class="footer-block people-block"  font-family="Arial" font-size="12px" padding="0px 0px 0px 0px" align="right" color="#4C9B2F">
+                        <i><b class="hide-on-mobile show-on-desktop">Making a difference in people's lives.</b></i>
+                    </mj-text>
+                    <mj-spacer height="42px"></mj-spacer>
+                </mj-column>
+            </mj-section>
+            <mj-section  padding="0px 0px 0px 0px"  background-color="#fff" direction="rtl">
+                <mj-column width="36%" css-class="green-logo" padding="0px 0px 0px 0px">
+                    <mj-image href="https://www.plaingreenloans.com/" padding="0px 70px 0px 0px" align="center" width="143px" alt="Plain Green logo" src="http://sendy.yourcreditninja.com/sendy/uploads/1686596189.png"></mj-image>
+                </mj-column>
+                <mj-column width="64%" css-class="privacy">
+                    <mj-text css-class="footer-block advertisment live-section"  font-family="Arial" font-size="12px" padding="0px 0px 0px 0px" align="center" color="#4C9B2F">
+                        <i><b class="hide-on-desktop show-on-mobile">Making a difference in people's lives.</b></i>
+                    </mj-text>
+                    <mj-text css-class="footer-block advertisment"  font-family="Arial" padding="0px 0px 0px 0px" font-size="11px">
+                        <p style="margin:0px 0px 0px 0px; text-align:left;">This is an advertisement.</p>
+                        <p style="margin:0px 0px 0px 0px; text-align:left;">We respect your right to privacy. <a href="https://www.plaingreenloans.com/content/disclosures/privacy-policy/" style="color:#4C9B2F">View</a> our Privacy Policy.</p>
+                        <p style="margin:0px 0px 0px 0px; text-align:left;"><a href="[global_optout]" style="color:#4C9B2F">Click here</a> to Unsubscribe.</p>
+                    </mj-text>
+                </mj-column>
+               
+            </mj-section>
+            <mj-section  padding="0px 0px 0px 0px" background-color="#fff">
+                <mj-column>
+                    <mj-spacer height="30px"></mj-spacer>
+                    <mj-text css-class="footer-block" align="left"   font-family="Arial" padding="0px 0px 0px 0px" font-size="11px" line-height="13px">
+                        <p style="text-align:left; margin:0"><b>Plain Green, LLC, is a wholly owned company of the Chippewa Cree Tribe of Rocky Boy’s Reservation, Montana; a Native American Tribe federally recognized by the government of the United States of America, and we operate within the boundaries of the reservation. You may reside in a state that does not recognize the sovereign lending authority of the Chippewa Cree Tribal Government and may consider the products and services offered by Plain Green as void under state law. By entering into an agreement with Plain Green, you are availing yourself upon the jurisdiction of the Tribe and fully understand and consent that any agreement entered into is governed by all applicable federal law and the laws and lending codes enacted by the Tribe’s federally recognized sovereign government.</b></p>
+                    </mj-text>
+                    <mj-spacer height="10px"></mj-spacer>
+                    <mj-text css-class="footer-block" align="left"  font-family="Arial" padding="0px 0px 0px 0px" font-size="11px" line-height="13px">
+                        <p style="text-align:left; margin:0">
+                        You were selected for this offer based on prior performance history that satisfied the lender’s criteria for creditworthiness. Certain events or changes to your information may impact your eligibility. This offer is not guaranteed and may be modified, revoked or canceled at any time. If you reside in a state in which we do not provide services, you will be ineligible for this offer. This offer is available only to the addressee and may not be transferred to any other party.
+                        </p>
+                        <br>
+                          <p style="text-align:left; margin:0">
+                        Refer to Loan Cost &amp; Terms on <a style="color: #000; text-decoration: none;" href="https://www.plaingreenloans.com/">PlainGreenLoans.com</a> for additional details. Complete disclosures of APR, fees and payment terms are provided within the Loan Agreement. The Annual Percentage Rate (APR) for an example loan of $[next_offer_amount] is [apr]% with [num_payment] bi-weekly payments of $[payment_amt] and no down payment; pricing in effect as of May 25, 2023. The APR is subject to being changed at any time without advance notice. See <a style="color: #000; text-decoration: none;" href="https://www.plaingreenloans.com/">PlainGreenLoans.com</a> for more information.</p>
+                        <br>
+                          <p style="text-align:left; margin:0">
+                        For loans with ACH deposit requested, loans that are approved and accepted by 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays), loans will be funded the same day. Loans that are approved and accepted after 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays) and before 6:00 p.m. Eastern Time (Monday–Friday) will be funded the following business day. Note that errors in your application, particularly with bank routing and account numbers, will impact our ability to fund and cause delays. In some cases, a customer service representative may contact you to verify your information before we can finalize and approve your loan.
+
+                        </p>
+                        <br>
+                          <p style="text-align:left; margin:0">
+                        *Debit card funding in 30 minutes or less if valid during normal business hours and may take longer after hours, on weekends, or bank holidays. By choosing “Funding to Debit Card” you are indicating that you would like to have your loan proceeds sent immediately upon the completion of the required loan documentation to your debit card. A valid debit card must be on file and associated with your account. Loans to qualified returning customers that are approved and accepted, will be credited to the account attached to the debit card number, provided your card is part of our lending network. You understand that the Funding to Debit Card delivery service is an OPTIONAL service and is not a condition of you receiving a loan from Plain Green. Note that errors in your application will impact our ability to fund and cause delays. In some cases, a customer service representative may contact you to verify your information before we can finalize and approve your loan.
+
+                        </p>
+                        <br>
+                        <p style="text-align:left; margin:0">
+                        Your VIP Rewards Tier is [tier_level] as of 06/15/2023. Positive payment history consists of on-time payments that are timely and successful for the minimum amount due remitted on or before the due date as outlined in the loan agreement. Payments are not successful if any portion is returned or otherwise cannot be processed or if the payment is not for the entire amount due. Negative impacts to your account like missed or bounced payments could drop you down a tier or disqualify you from the VIP Rewards Program. To learn more, and to see complete details, visit <a href="https://www.plaingreenloans.com/Terms" style="color:#000; text-decoration:none;"> www.plaingreenloans.com/Terms</a>. 
+                        </p>
+                        <br>
+                          <p style="text-align:left; margin:0">
+                       <span style="font-weight: 600;">This is an expensive form of credit.</span> Loans offered by
+Plain Green, LLC are designed to help you meet your
+emergency cash needs. Alternative forms of credit, such
+as a credit card cash advance, personal loan, home equity
+line of credit, existing savings or borrowing from a friend or
+relative, may be less expensive and more suitable for your
+financial needs. Before borrowing, please consider
+whether you will be able to repay any amount you borrow.
+Customers with continued credit difficulties should seek
+credit counseling.
+                        </p>
+                        <br>
+                          <p style="margin:0">
+                          If you have any questions about this offer, please call <a style="color: #000; text-decoration: none;" href="tel:1-866-420-7157">1-866-420-7157</a>, Monday–Friday, 8:00 a.m. to 10:00 p.m. Eastern Time, Saturday, 9:00 a.m. to 5:00 p.m. Eastern Time. To obtain a loan, you must have a valid checking account, e-mail address, verifiable identity, and minimum income. Applications can be completed online only at <a style="color: #000; text-decoration: none;" href="https://plaingreenloans.com/">www.PlainGreenLoans.com</a>.</p>
+                          <br>
+                        <p style="text-align:left; margin:0">
+                        Customer Support: <a href="tel:(866) 420-7157" style="color:#000;text-decoration:none;"> (866) 420-7157 </a> | Hours of Operation: 8:00 a.m. to 10:00 p.m. Eastern Time (Monday–Friday), 9:00 a.m. to 5:00 p.m. Eastern Time (Saturday).
+                        </p>
+                        <br>
+                        <p style="text-align:left; margin:0">
+                        This email was sent by Plain Green | 93 Mack Road, Suite 600 | PO Box 270 | Box Elder, MT 59521.
+                        </p>
+                        <br>
+                        <mj-spacer height="20px"></mj-spacer>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="f-bottom" padding="0px 70px 100px 70px" background-color="#fff">
+                <mj-column width="61%" css-class="copyright-fix">
+                    <mj-text font-family="Arial" padding="0px 0px 0px 0px" align="left" font-size="11px" line-height="13px">
+                        <p style="margin:0 0 0px 0;text-align:left;">© 2023 Plain Green Loans. All Rights Reserved.</p>
+                    </mj-text>
+                    <mj-spacer height="30px"></mj-spacer>
+                </mj-column>
+                <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+                    <mj-image href="https://www.plaingreenloans.com/resources/about-us/" padding="0px 0px 0px 0px" align="right" width="50px" height="50px" alt="Chippewa Cree Tribe logo" src="https://nm.my605lending.com/assets/footer-logo.png"></mj-image>
+                </mj-column>
+                <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+                    <mj-image href="https://www.facebook.com/PlainGreenLLC" alt="Facebook logo" padding="0px 0px 0px 0px" align="right" width="38px" height="38px" src="http://sendy.yourcreditninja.com/sendy/uploads/1685459041.png"></mj-image>
+                </mj-column>
+              <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+        <mj-image href="https://www.youtube.com/channel/UC5UMuK78o1sqOQdn1tugaIA" alt="youtube" padding="0px 0px 0px 0px" align="right" width="38px" src="http://sendy.yourcreditninja.com/sendy/uploads/1685459008.png"></mj-image>
+      </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

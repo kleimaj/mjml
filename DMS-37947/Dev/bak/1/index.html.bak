@@ -1,0 +1,327 @@
+<mjml>
+  <mj-head>
+    <mj-title>Plain Green</mj-title>
+    <mj-breakpoint width="420px" />
+
+    <mj-attributes>
+      <mj-text padding="0px 0px 0px 0px" align="center" color="#000000" font-family="Calibri,'Source Sans Pro',sans-serif" font-size="16px" />
+      <mj-image padding="0px 0px 0px 0px" />
+      <mj-table padding="0px 0px 0px 0px" line-height="0px" font-family="Calibri,'Source Sans Pro',sans-serif" font-size="16px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      a[href^=tel] {
+        color: #000000;
+        text-decoration: none;
+      }
+
+      a {
+        color: #000000;
+      }
+
+      a:hover {
+        text-decoration: underline !important;
+      }
+
+      a:visited {
+        color: #E1261C !important;
+      }
+
+      p {
+        margin: 5px 0px 10px 0px;
+        line-height: 24px;
+
+      }
+
+      .hide-on-desktop-outlook * {
+        mso-padding-alt: 0px !important;
+        mso-hide: all !important;
+      }
+
+      .hide-on-desktop {
+        display: none !important;
+        height: 0px !important;
+        mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-style>
+      @media screen and (max-width:400px) {
+
+        u+* .gmail-log-in-here {
+          font-size: 13px !important;
+        }
+
+        u+* .gmail-heading-text {
+          font-size: 25px !important;
+          font-weight: 800 !important;
+
+        }
+
+        u+* .gmail-body-text {
+          font-size: 13px !important;
+          font-weight: 500 !important;
+        }
+
+        .show-on-mobile {
+          display: inherit !important;
+          height: inherit !important;
+        }
+
+        u+* .gmail-mobile-hero-text {
+          font-size: 28px !important;
+          line-height: 32px !important;
+          padding-top: 20px !important;
+        }
+
+        u+* .mobile-hero-text-2 {
+          font-size: 28px !important;
+          line-height: 38px !important;
+          padding-top: 30px !important;
+        }
+      .cta-header {
+      	font-size: 48px !important;
+      }
+      .cta-subheader {
+      	font-size: 30px !important;
+      	line-height: 30px !important;
+      }
+      .mobile-center {
+      	text-align: center !important;
+      }
+      .main-sec td {
+      		padding: 10px!important
+      }
+      .main-col {
+      	padding: 10px 0 10px 0 !important;
+      }
+
+      }
+    </mj-style>
+    <mj-raw>
+      <style type="text/css">
+        [office365] img {
+          display: block !important;
+        }
+
+        @import url(http://fonts.googleapis.com/css?family=Raleway);
+
+        [style*="Raleway"] {
+          font-family: 'Calibri,'Source Sans Pro',sans-serif;
+
+        }
+
+        html,
+        body {
+          -webkit-text-size-adjust: none;
+        }
+
+        [style*="Muli"] {
+          font-family: Calibri, sans-serif !important;
+        }
+      </style>
+
+
+      <!--[if mso]>
+  <mj-style type="text/css">
+    ul {
+      margin: 0 0 0 60px !important;
+    }
+  </mj-style>
+<![endif]-->
+
+    </mj-raw>
+
+  </mj-head>
+  <mj-body background-color="#EAEAEA">
+    <!-- Pretext Section -->
+    <mj-section padding="0px 0px 0px 0px">
+      <mj-column>
+        <mj-text padding="0px 10px 0px 10px" align="center" font-size="10px" line-height="15px" font-family="Calibri,'Source Sans Pro',sans-serif">
+          <span style="visibility: hidden; font-size:10px;line-height:15px;font-family: Calibri,'Source Sans Pro',sans-serif; font-weight: normal;color: #EAEAEA;Margin: 0;">PRETEXT</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Header Section -->
+    <mj-wrapper padding="0px 0px 15px 0px">
+      <mj-section padding="0px 20px 0px 0px" background-color="#ffffff">
+        <mj-group>
+          <mj-column width="75%" vertical-align="middle" css-class="header">
+            <mj-text align="left" color="#707070" padding="5px 20px" css-class="header-text" font-family="Calibri,'Source Sans Pro',sans-serif;"><span style="font-weight: bold;">VIP: </span>%%Fullname%%</mj-text>
+            <mj-text align="left" color="#707070" padding="0px 20px" css-class="header-text" font-family="Calibri,'Source Sans Pro',sans-serif;"><span style="font-weight: bold;">CREDIT LIMIT: </span>$%%X,XXX%%</mj-text>
+
+            <mj-spacer css-class="header-spacer" height="10px"></mj-spacer>
+          </mj-column>
+
+          <mj-column width="25%" vertical-align="middle">
+            <mj-spacer height="15px"></mj-spacer>
+            <mj-image href="https://www.plaingreenloans.com/" align="center" width="100px" src="https://www2.awsdms.net/sendy/uploads/1641957136.jpg" alt="VIP plain green logo" />
+            <mj-spacer height="15px">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Call To Action Section -->
+    <mj-wrapper padding="0px 0px 15px 0px">
+      <mj-section background-color="#4C9B2F" padding="30px 0px 30px 0px">
+        <mj-column width="96%">
+          <mj-text align="center" font-family="Calibri, 'Source Sans Pro', sans-serif;">
+            </br>
+            <!-- Heading -->
+            <p style="color:#ffffff; font-size:58px; font-weight: 800; line-height:44px !important; padding:0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span class="cta-header"><nobr>%%FName%%,</nobr></span></font>
+            </p>
+            <br />
+            <!-- Subheading -->
+            <p style="color:#ffffff; font-size:36px; font-weight: 800; line-height:44px !important; padding:0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span class="cta-subheader">returning customers give us 5 stars!</span></font>
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Hero Image -->
+    <mj-wrapper padding="0px 0px 15px 0px">
+      <mj-section background-color="#4C9B2F" padding="0px 0px 0px 0px">
+        <mj-column width="100%">
+          <mj-image src="./img/hero.png" alt="Man smiling and holding a phone" width="620px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Main Section -->
+    <mj-wrapper padding="0px 0px 15px 0px">
+      <mj-section background-color="#ffffff" padding="30px 50px 20px 50px" css-class="main-sec">
+        <mj-column width="33%" css-class="main-col">
+          <mj-text align="left" font-family="Calibri, 'Source Sans Pro', sans-serif;">
+            <p style="color:#000000; font-size: 18px; font-weight: 500; line-height: 20px !important; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;" class="mobile-center">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span>Plain Green Loans is <br /> Rated</span> <span style="font-weight: 800;">Excellent</span></font>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%" css-class="main-col">
+          <mj-image src="./img/stars.png" alt="4.5 Stars based on 6,697 reviews" width="117px" />
+        </mj-column>
+        <mj-column width="33%" css-class="main-col">
+          <mj-image src="./img/trustpilot.png" alt="Trustpilot logo" width="116.59px" />
+        </mj-column>
+        <mj-column width="100%" padding="25px 0px 20px 0px">
+          <mj-image src="./img/line.png" alt="gray line" width="306px" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="left" font-family="Calibri, 'Source Sans Pro', sans-serif;">
+            <p style="color:#000000; font-size: 20px; font-weight: 500; line-height: 23px !important; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span>Thanks for the positive feedback! Did you know that returning customers qualify for higher loan amounts — and that higher loans often have lower APRs? </span><span style="font-weight: 800;">Check out our website to see how low your new payments could be.</span></font>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center" font-family="Calibri, 'Source Sans Pro', sans-serif;">
+            <p style="color:#4C9B2F; font-size: 23px; font-weight: 800; line-height: 26px !important; padding: 20px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span>It’s easy to check your new amount and rate.</span></font>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center" font-family="Calibri, 'Source Sans Pro', sans-serif;">
+            <p style="color:#000000;font-size: 19px; font-weight: 500; line-height: 21px !important; padding: 10px 0px 25px 0px; margin: 0px 0px 0px 0px;">
+              <font face="Calibri,'Source Sans Pro',sans-serif"><span>Click below to log in and see your options.</span></font>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image src="./img/login.png" href="https://plaingreenloans.com/account/login" alt="Log In" width="500px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Footer -->
+
+    <mj-section padding="0px 20px 0px 20px">
+
+      <mj-column width="100%">
+        <mj-spacer height="35px"></mj-spacer>
+
+        <mj-text css-class="footer-heading" align="right" font-family="Raleway" color="#4C9B2F" font-size="12.5px" padding="15px 0">Making a difference in people’s lives.</mj-text>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="left" font-size="10px" line-height="12px" font-family="Calibri,'Source Sans Pro',sans-serif">
+          <p style="line-height: 13px">This is an advertisement. </br>
+
+            We respect your right to privacy. <a href="https://www.plaingreenloans.com/content/disclosures/privacy-policy/" style="color: #4C9B2F !important; text-decoration: underline !important;">
+              <font color="#4C9B2F">View&nbsp;</font>
+            </a> our Privacy Policy. <a href="[unsubscribe]" style="color: #00A98F !important; text-decoration: underline !important;">
+              <font color="#">Click&nbsp;here</font>
+            </a> to Unsubscribe.</p>
+        </mj-text>
+        <mj-spacer height="19px"></mj-spacer>
+      </mj-column>
+
+      <mj-column width="25%">
+        <mj-image href="https://www.plaingreenloans.com/" src="https://www2.awsdms.net/sendy/uploads/1642001481.png" alt="logo"></mj-image>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="10px 20px 0px 20px">
+
+      <mj-column width="100%">
+        <mj-text align="left" font-size="10px" line-height="12px" font-family="Calibri,'Source Sans Pro',sans-serif">
+
+
+          <p style="line-height: 13px; font-weight: 800;">
+            <font face="Calibri,'Source Sans Pro',sans-serif"><strong>Plain Green, LLC, is a wholly owned company of the Chippewa Cree Tribe of Rocky Boy’s Reservation, Montana; a Native American Tribe federally recognized by the government of the United States of America, and we operate within the boundaries of the reservation. You may reside in a state that does not recognize the sovereign lending authority of the Chippewa Cree Tribal Government and may consider the products and services offered by Plain Green as void under state law. By entering into an agreement with Plain Green, you are availing yourself upon the jurisdiction of the Tribe and fully understand and consent that any agreement entered into is governed by all applicable federal law and the laws and lending codes enacted by the Tribe’s federally recognized sovereign government.</strong> </font>
+          </p>
+
+          <p style="line-height: 13px;">
+            <font face="Calibri,'Source Sans Pro',sans-serif">
+              For loans that are approved and accepted by 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays), loans will be funded the same day. Loans that are approved and accepted after 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays) and before 6:00 p.m. Eastern Time (Monday–Friday) will be funded the following business day. Note that errors in your application, particularly with bank routing and account numbers, will impact our ability to fund and cause delays. In some cases, a customer service representative may contact you to verify your information before we can finalize and approve your loan.<br></br>
+
+
+              *Positive payment history consists of on-time payments that are timely and successful for the minimum amount due remitted on or before the due date as outlined in the loan agreement. Payments are not successful if any portion is returned or otherwise cannot be processed or if the payment is not for the entire amount due. Negative impacts to your account like missed or bounced payments could drop you down a tier or disqualify you from the VIP Rewards Program. To learn more, and to see complete details, visit www.plaingreenloans.com/Terms
+              <br></br>
+
+              Your individual tier status in the program will be displayed in the upper left section of the My Account section when you log into your account after 6/1/2022.
+
+              <br></br>
+
+              Customer Support: (866) 420-7157 | Hours of Operation: 8:00 a.m. to 10:00 p.m. Eastern Time (Monday–Friday), 9:00 a.m. to 5:00 p.m. Eastern Time (Saturday).
+
+            </font>
+          </p>
+
+        </mj-text>
+
+
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section padding="0px 20px 0px 20px">
+      <mj-column width="80%">
+        <mj-text align="left" font-size="10px" line-height="12px" font-family="Calibri,'Source Sans Pro',sans-serif">
+          <p style="line-height: 13px">
+            <font face="Calibri,'Source Sans Pro',sans-serif">
+              This email was sent by Plain Green | 93 Mack Road, Suite 600 | PO Box 270 | Box Elder, MT 59521<br></br>
+              &#169; 2022 Plain Green Loans. All Rights Reserved. </font>
+          </p>
+        </mj-text>
+        <mj-spacer height="19px"></mj-spacer>
+      </mj-column>
+
+      <mj-column width="10%">
+        <mj-image css-class="mobile-icon" href="https://www.facebook.com/PlainGreenLLC" align="center" width="39px" src="https://www2.awsdms.net/sendy/uploads/1641961260.png" alt="facebook icon"></mj-image>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+
+    </mj-section>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,582 @@
+<mjml lang="en">
+    <mj-head>
+      <mj-title>Plain Green</mj-title>
+      <mj-breakpoint width="420px" />
+    
+      <mj-attributes>
+        <mj-text padding="0px 0px 0px 0px" align="center" color="#000000" font-family="Arial, Tahoma,Verdana" font-size="16px" />
+        <mj-image padding="0px 0px 0px 0px" />
+        <mj-table padding="0px 0px 0px 0px" line-height="0px" font-family="Arial, Tahoma,Verdana" font-size="16px" />
+      </mj-attributes>
+       
+          <mj-style>
+        body { 
+            padding: 0 0 0 0; 
+            mso-line-height-rule: exactly; 
+            
+            } 
+            
+						.max-width {
+            max-width: 600px !important;
+            }
+   
+          .hide-on-desktop {
+          display: none !important; 
+          height: 0px !important;
+          mso-hide: all !important;
+          
+        }
+            
+         .hide-on-desktop-outlook {
+          display: none !important; 
+          height: 0px !important;
+          mso-hide: all !important;
+          
+        }
+            .hide-on-outlook {
+            mso-hide: all !important;
+            }
+            
+          [ class="x_margin-on-desktop-outlook-com"] * {
+          margin-bottom: 100px;
+        }
+            
+          [ class="x_hide-on-desktop-outlook-com"] * {
+           display: none !important;
+           height: 0px !important;
+           mso-hide: all !important;
+        }
+            
+            
+          u + *  .hide-gmail {
+              
+           display: none !important;
+           height: 0px !important;
+           mso-hide: all !important;
+      }       
+          
+  
+            .main-wrapper-outlook v:rect v:fill {
+            background-image: none;
+            src: none;
+            }
+            
+            
+            .reverse-stacking * {
+  					background-color:#4C9B2F !important;
+}
+            
+.desktop-container-outlook {
+	background-color: #ffffff !important;
+}
+
+
+
+            .f-bottom {
+            	text-align: left;
+            }
+            
+            
+            
+        @media screen and (max-width:420px) { 
+        /* mobile code goes here */ 
+      
+     
+            
+         .hide-on-mobile {
+           display: none !important;
+           height: 0px !important;
+           mso-hide: all !important;
+      }
+            .icon-fix {
+            	width: 15% !important;
+            }
+        
+        .section-wrapper-1 * td  {
+            
+            padding: 0px 5px 10px 5px !important;
+            
+            }
+            
+         .mobile-padding {
+            padding: 0  0 20px 0 !important;
+            }
+            
+         .mobile-center div {
+                  text-align: center !important;
+        } 
+            
+            .footer-text-top div{
+                          text-align: center !important;
+  }
+                        .f-bottom {
+                padding: 0 15px 30px !important;
+            }
+            .f-bottom tr td {
+                padding: 0px  !important;
+            }
+          
+           .show-on-mobile {
+          display: inherit !important; 
+          height: inherit !important;
+          }
+            
+     .mobile-footer-padding table tbody tr td {
+ padding: 0px 5px 0px 5px !important;
+}
+            
+            
+   }         
+  
+      </mj-style>
+      
+  <mj-style inline="inline"> 
+  
+  
+   a[x-apple-data-detectors] {
+       color: inherit !important;
+       text-decoration: none !important;
+       font-size: inherit !important;
+       font-family: inherit !important;
+       font-weight: inherit !important;
+       line-height: inherit !important;
+  }
+   a[href^=tel]{
+       color:#000000;
+       text-decoration:none;
+  }
+   a {
+       color: #000000;
+  }
+   a:hover {
+      /* text-decoration: underline !important;
+       */
+  }
+   a:visited {
+       color: #000000 !important;
+  }
+   p {
+       margin: 5px 0px 10px 0px;
+       padding: 0 0 0 0;
+       line-height: 24px;
+  }
+  
+  td {
+       padding: 0 0 0 0; 
+        }
+  span[x-apple-data-detectors] {
+       color: inherit !important;
+       text-decoration: none !important;
+       font-size: inherit !important;
+       font-family: inherit !important;
+       font-weight: inherit !important;
+       line-height: inherit !important;
+  }
+  
+     .hide-on-outlook {
+    mso-hide: all !important;
+    }
+    
+     .hide-on-outlook * {
+    mso-hide: all !important;
+    }
+    
+
+   </mj-style> 
+      
+  
+      
+      <mj-raw>
+     <style>
+     .& #yahoo-id {
+          height: 12px !important;
+         
+        }
+     
+     </style>
+    </mj-raw> 
+      
+      <mj-raw> 
+    <!--[if mso]> 
+  <style> 
+  desktop-container-outlook * {
+background-color: #4C9B2F !important;
+}
+
+.desktop-container {
+	background-color: #4C9B2F  !important;;
+}
+
+
+.desktop-container table {
+background-color: #4C9B2F  !important;;
+}
+  
+   </style> 
+  <![endif]--> 
+      
+   </mj-raw> 
+    </mj-head>
+    <mj-body background-color="#ededed" width="596px">
+      <!-------- SECTION  ------->
+         <mj-section background-color="#ffffff" padding="0px 0px 0px 0px">
+          <mj-column>
+            <mj-text background-color="#ffffff" padding="0px 0px 0px 0px" align="center" font-size="2px" line-height="15px" font-family="Arial,'Source Sans Pro',sans-serif">
+              <p style="font-size:2px;line-height:3px;font-family: Arial,'Source Sans Pro',sans-serif; font-weight: normal;color: #ffffff;Margin: 0;">Plain Green has your super-fast cash solution</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <!-- Old stuff---->
+      
+<!--------Begin: Mobile mobile mobile  -------> 
+<!--------Begin: Mobile mobile mobile  -------> 
+<!--------Begin: Mobile mobile mobile  -------> 
+<!--------Begin: Mobile mobile mobile  -------> 
+<!--------Begin: Mobile mobile mobile  ------->    
+      
+
+<mj-wrapper css-class="hide-on-desktop show-on-mobile hide-on-outlook" padding="0px 0px 0px 0px" background-size="100%" background-repeat="no-repeat">>
+
+      <mj-section padding="0px 0px 0px 0px" background-color="#fff">
+        <mj-column>
+              <mj-spacer height="55px"></mj-spacer>
+              <mj-image width="123px" align="center" href="https://www.plaingreenloans.com/" src="https://www2.awsdms.net/sendy/uploads/1642001481.png" alt="logo"></mj-image>
+              <mj-spacer height="30px"></mj-spacer>
+        </mj-column>
+        </mj-section> 
+  
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column>
+        <mj-image alt="visual-element" src="http://sendy.yourcreditninja.com/sendy/uploads/1686599001.png"></mj-image>
+        </mj-column>
+        </mj-section>
+            
+  <mj-section padding="0px 20px 0px 20px" >
+            <mj-column  width="90%">
+              <mj-spacer height="30px"></mj-spacer>
+
+              <mj-text  align="center" padding="0px 0px 0px 0px" color="#000000" font-size="27px" font-weight="700" line-height="31px" font-family="Arial,'Source Sans Pro',sans-serif;"> [fname], <br>customers like you
+are the reason we do what we do. </mj-text>
+              <mj-spacer height="20px"></mj-spacer>
+                 
+                <mj-text padding="0px 10px 0px 10px" align="left" font-size="17px" line-height="24px">
+                <p style="border:1px solid rgba(112, 112, 112, .25); border-radius: 12px; padding: 12px;">
+                  “The Plain Green customer service team is wonderful. They answer all your questions thoroughly and guide you every step of the way. Even though their website is pretty user friendly, I ran into a problem trying to access my account. The customer service team was at the ready to help resolve the issue. I have trusted Plain Green in the past with my financial needs and I am so happy to do so again and I highly recommend them.” — <i>Miriam</i></p></mj-text>
+                
+              <mj-spacer height="25px"></mj-spacer>
+               <mj-text color="#000000" font-size="21px" line-height="26px" align="left" padding="0px 0px 0px 0px">
+      <b>Come back to Plain Green for:</b>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> Same-day funding*
+        </p>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> Simple repayment terms
+        </p>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> No hidden fees or prepayment penalty
+        </p>
+      </mj-text>
+                  <mj-spacer height="25px"></mj-spacer>
+                 
+                 
+                   <mj-image width="238px" align="center"  src="http://sendy.yourcreditninja.com/sendy/uploads/1686948327.png" alt="Apply in Minuets Button"></mj-image>
+                  <mj-spacer height="45px"></mj-spacer>
+                
+                <mj-image src="http://sendy.yourcreditninja.com/sendy/uploads/1686609667.png" alt="line" width="274px"></mj-image>
+            </mj-column>
+          </mj-section>
+  
+
+                     <mj-section padding="0px 0px 0px 0px" >
+            <mj-column  width="0%">
+              <mj-spacer height="50px"></mj-spacer>
+
+
+          </mj-column> 
+            </mj-section>
+            </mj-wrapper>
+                  
+<!--------End: Mobile mobile mobile  -------> 
+<!--------End: Mobile mobile mobile  -------> 
+<!--------End: Mobile mobile mobile  -------> 
+<!--------End: Mobile mobile mobile  -------> 
+<!--------End: Mobile mobile mobile  ------->           
+            
+            
+            
+            
+            
+            
+        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->
+<!--------Begin: Desktop Desktop Desktop  ------->     
+<!--------Begin: Desktop Desktop Desktop  ------->  
+
+                    
+ <mj-wrapper padding="0px 0px 0px 0px" css-class="hide-on-mobile" background-color="#ffffff"    background-size="cover" background-repeat="no-repeat"> 
+ 
+   
+   
+   <mj-section padding="0px 0px 0px 0px">
+        <mj-column>
+              <mj-spacer height="55px"></mj-spacer>
+        <mj-image width="150px" align="center" href="https://www.plaingreenloans.com/" src="https://www2.awsdms.net/sendy/uploads/1642001481.png" alt="logo"></mj-image>
+              <mj-spacer height="25px"></mj-spacer>
+        </mj-column>
+        </mj-section>
+      <mj-section padding="0px 0px 0px 0px">
+        <mj-column>
+        <mj-image alt="visual-element" src="http://sendy.yourcreditninja.com/sendy/uploads/1686599001.png"></mj-image>
+        </mj-column>
+        </mj-section>
+ <mj-section padding="0px 20px 0px 20px" >
+            <mj-column  width="100%">
+              <mj-spacer height="40px"></mj-spacer>
+             <mj-text padding="0px 0px 0px 0px"> 
+               <!--[if mso]><div style="line-height: .6;">&nbsp;<br></div> <div>&nbsp;</div><![endif]--></mj-text>
+              
+              
+              <mj-text align="center" padding="0px 0px 0px 0px" color="#000000" font-size="46px" font-weight="700" line-height="52px" font-family="Arial,'Source Sans Pro',sans-serif;"> [fname],
+                 
+                </mj-text>
+              <mj-text align="center" padding="20px 0px 0px 0px" color="#000000" font-size="27px" font-weight="700" line-height="33px" font-family="Arial,'Source Sans Pro',sans-serif;">customers like you<br/>
+are the reason we do what we do.</mj-text>
+              <mj-spacer css-class="hide-on-outlook" height="0px"></mj-spacer>
+              
+              <mj-spacer height="20px"></mj-spacer>
+              <mj-text padding="0px 20px 0px 20px" align="left" font-size="17px" line-height="24px">
+                <p style="border:1px solid rgba(112, 112, 112, .25); border-radius: 12px; padding: 23px;">
+                  “The Plain Green customer service team is wonderful. They answer all your questions thoroughly and guide you every step of the way. Even though their website is pretty user friendly, I ran into a problem trying to access my account. The customer service team was at the ready to help resolve the issue. I have trusted Plain Green in the past with my financial needs and I am so happy to do so again and I highly recommend them.” — <i>Miriam</i></p></mj-text>
+              <mj-spacer height="1px"></mj-spacer>
+
+        <mj-spacer height="0px"></mj-spacer>
+        <mj-spacer css-class="hide-on-outlook" height="40px"></mj-spacer>
+        <mj-text padding="0px 0px 0px 0px"> <!--[if mso]><div style="line-height: .8;">&nbsp;<br></div> <div>&nbsp;</div><![endif]-->
+</mj-text>
+
+      <mj-text color="#000000" font-size="21px" line-height="26px" align="left" padding="0px 0px 0px 50px">
+      <b>Come back to Plain Green for:</b>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> Same-day funding*
+        </p>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> Simple repayment terms
+        </p>
+        <p style="padding: 10px 0px 0px 20px; text-indent: -20px;">
+        <img width="15px" alt="bullet point" src="http://sendy.yourcreditninja.com/sendy/uploads/1686606081.png"></img> No hidden fees or prepayment penalty
+        </p>
+      </mj-text>
+                
+       <mj-text padding="0px 0px 0px 0px"> <!--[if mso]><div style="line-height: 1.2;">&nbsp;<br></div> <div>&nbsp;</div><![endif]-->
+</mj-text>
+         
+                
+        <mj-spacer css-class="hide-on-outlook" height="40px"></mj-spacer>
+        <mj-spacer height="0px"></mj-spacer>
+      </mj-column>
+      
+    </mj-section>
+                    
+     
+             <mj-section padding="0px 0px 0px 0px" >
+               
+         
+               
+              <mj-column width="100%">
+                <mj-spacer height="0px"></mj-spacer>
+                               <mj-image padding="0px 0px 0px 5px" href="https://plaingreenloans.com/account/login" align="center" width="428px" src="http://sendy.yourcreditninja.com/sendy/uploads/1686948327.png" alt="Stay with a lender who treats you like a VIP."></mj-image>
+                  </mj-column>
+                  </mj-section>
+                  
+                  
+                  <mj-section>
+                    <mj-column>
+                 <mj-spacer  height="40px"></mj-spacer>
+                      
+                      <mj-image src="http://sendy.yourcreditninja.com/sendy/uploads/1686609667.png" alt="line" width="460px"></mj-image>
+                
+               </mj-column>
+           </mj-section>      
+            </mj-wrapper>
+                    
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->
+<!--------End: Desktop Desktop Desktop  ------->     
+<!--------End: Desktop Desktop Desktop  ------->                        
+                    
+                    
+
+        
+<mj-wrapper css-class="max-width" padding="0px 0px 0px 0px" background-color="#fff">     
+
+<!-------- BEGIN: DESKTOP SECTION  ------->
+	 <mj-section  css-class="hide-on-mobile" padding="0px 20px 30px 20px">
+        <mj-column width="80%">
+          <mj-text padding="0px 0px 0px 0px" font-style="italic" align="right" color="#4C9B2F" font-weight="800" font-size="12.5px" line-height="12px" font-family="Arial,'Source Sans Pro',sans-serif">
+            <font face="'Raleway',Arial,'Source Sans Pro',sans-serif" font-weight="800"> Making a difference in people’s lives.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-------- SECTION  ------->
+      <mj-section css-class="hide-on-mobile" padding="0px 0px 0px 0px">
+        <mj-group width="80%">
+          <mj-column width="61%">
+            <mj-spacer height="5px"></mj-spacer>
+            <mj-text align="left" font-size="11px" color="#000" line-height="12px" font-family="Arial, Tahoma,Verdana">
+              <p style="line-height: 13px">This is an advertisement. </br> We respect your right to privacy. <a href="https://www.plaingreenloans.com/content/disclosures/privacy-policy/" style="color: #4C9B2F !important; text-decoration: underline !important;"><span style="color=:#4C9B2F">View</span></a> our Privacy Policy. <a href="[global_optout]" style="color: #4C9B2F !important; text-decoration: underline !important;"><span style="color=:#4C9B2F">Click here</span></a> to Unsubscribe.</p>
+            </mj-text>
+            <mj-spacer height="0px"></mj-spacer>
+          </mj-column>
+          <mj-column width="39%">
+            <mj-image width="143px" align="right" href="https://www.plaingreenloans.com/" src="http://sendy.yourcreditninja.com/sendy/uploads/1686596189.png" alt="logo"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      </mj-section>
+      <!-------- END: DESKTOP SECTION  ------->
+           
+                 
+                 
+                 
+    
+
+       
+				<!-------- BEGIN: MOBILE SECTION  ------->   
+        <mj-section css-class="hide-on-desktop show-on-mobile hide-on-outlook" background-color="#fff" direction="rtl" padding="0px 0px 0px 0px" >
+
+            <mj-column   width="28%" background-color="#fff">
+<mj-image width="143px" align="center" padding="40px 0px 0px 0px" href="https://www.plaingreenloans.com/" src="http://sendy.yourcreditninja.com/sendy/uploads/1686596189.png" alt="logo"></mj-image>
+            </mj-column>
+                    
+            <mj-column  width="52%" background-color="#fff">
+             
+              
+              <mj-text padding="20px 0px 0px 0px" css-class="footer-text-top" align="left" font-size="10.2px" line-height="13px" font-family="Arial, Tahoma,Verdana" color="#000">
+                <p class="hide-on-desktop show-on-mobile" style="font-family: Raleway; font-weight: 700; font-size: 12.5px; line-height: 10px; color: #4C9B2F;">Making a difference in people’s lives</p>
+                This is an advertisement. </br> We respect your right to privacy. <a href="https://www.plaingreenloans.com/content/disclosures/privacy-policy/" style="color: #4C9B2F !important; text-decoration: underline !important;"><span style="color=:#4C9B2F">View</span></a> our Privacy Policy. <a href="[global_optout]" style="color: #4C9B2F !important; text-decoration: underline !important;"><br><span style="color=:#4C9B2F">Click here</span></a> to Unsubscribe.
+              </mj-text>
+              
+            </mj-column>
+  
+
+        </mj-section>
+       <!-------- END: MOBILE SECTION  ------->
+                 
+                 
+                 
+        <!-------- SECTION  ------->
+        <mj-section css-class="mobile-footer-padding" padding="0px 5px 0px 35px" background-color="#fff">
+          <mj-column width="3%"></mj-column>
+          <mj-column width="90%">
+            <mj-spacer height="15px"></mj-spacer>
+            <mj-text align="left" font-size="10.5px" line-height="13.2px" font-family="Arial,'Source Sans Pro',sans-serif" color="#000">
+              <p style="line-height: 13.2px; font-weight: 700;">
+                <font face="Arial,'Source Sans Pro',sans-serif">Plain Green, LLC, is a wholly owned company of the Chippewa Cree Tribe of Rocky Boy's Reservation, Montana; a Native American Tribe federally recognized by the government of the United States of America, and we operate within the boundaries of the reservation. You may reside in a state that does not recognize the sovereign lending authority of the Chippewa Cree Tribal Government and may consider the products and services offered by Plain Green as void under state law. By entering into an agreement with Plain Green, you are availing yourself upon the jurisdiction of the Tribe and fully understand and consent that any agreement entered into is governed by all applicable federal law and the laws and lending codes enacted by the Tribe's federally recognized sovereign government.</font>
+              </p>
+             
+                  <p style="line-height: 13.2px;"> 
+                You were selected for this offer based on prior performance history that satisfied the lender's criteria for creditworthiness. Certain events or changes to your information may impact your eligibility. This offer is not guaranteed and may be modified, revoked or canceled at any time. If you reside in a state in which we do not provide services, you will be ineligible for this offer. This offer is available only to the addressee and may not be transferred to any other party.
+              </p>
+                 
+                <p style="line-height: 13.2px;"> 
+                   Refer to Loan Cost &amp; Terms on <a style="color: #000; text-decoration: none;" href="https://www.plaingreenloans.com/">PlainGreenLoans.com</a> for additional details. Complete disclosures  of APR, fees and payment terms are provided within the Loan Agreement. The APR   is subject to being changed at any time without advance notice. See <a style="color: #000; text-decoration: none;" href="https://www.plaingreenloans.com/">PlainGreenLoans.com</a> for more information.</p>
+                                   
+                  <p style="line-height: 13.2px;"> 
+                  *For loans with ACH deposit requested, loans that are approved and accepted by 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays), loans will be funded the same day. Loans that are approved and accepted after 11:30 a.m. Eastern Time (Monday–Friday, excluding bank holidays) and before 6:00 p.m. Eastern Time (Monday–Friday) will be funded  the following business day. Note that errors in your application, particularly with bank routing and account numbers, will impact our ability to fund and cause delays. In some cases, a customer service representative may contact you to verify your information before we can finalize and approve your loan.
+                  </p>
+                
+                  <p style="line-height: 13.2px;"> 
+                                  This is an expensive form of credit. Loans offered by Plain Green, LLC are designed to help you meet your emergency cash needs. Alternative forms of credit, such as a credit card cash advance, personal loan, home equity line of credit, existing savings or borrowing from a friend or relative, may be less expensive and more suitable for your financial needs. Before borrowing, please consider whether you will be able to repay any amount you borrow. Customers with continued credit difficulties should seek credit counseling.
+                  </p>
+                
+                  <p style="line-height: 13.2px;"> 
+                                   If you have any questions about this offer, please call 1-866-420-7157, Monday–Friday, 8:00 a.m. to 10:00 p.m. Eastern Time, Saturday, 9:00 a.m. to 5:00 p.m. Eastern Time. To obtain a loan, you must have a valid checking account, e-mail address, verifiable identity, and minimum income. Applications can be completed online only at <a style="color: #000; text-decoration: none;" href="https://www.plaingreenloans.com/">www.PlainGreenLoans.com</a>.
+                  </p>
+                 
+      
+   
+   
+     <mj-text padding="0px 0px 0px 0px" align="left" font-size="10.5px" line-height="12px" font-family="Arial,'Source Sans Pro',sans-serif">
+      <p style="line-height: 13.2px;"> Customer Support: (866) 420-7157 | Hours of Operation: 8:00 a.m. to 10:00 p.m. Eastern Time (Monday–Friday), 9:00 a.m. to 5:00 p.m. Eastern Time (Saturday). </p>
+      
+              <p style="line-height: 13px">
+                <font face="Arial,'Source Sans Pro',sans-serif"> This email was sent by Plain Green | 93 Mack Road, Suite 600 | PO Box 270 | Box Elder, MT 59521.</font>
+              </p>
+                    
+                    
+                    
+             
+            </mj-text>
+          </mj-column>
+                    
+                    
+          <mj-column width="4%"></mj-column>
+        </mj-section>
+                    
+                    
+       <mj-section css-class="f-bottom" padding="0px 70px 100px 60px" background-color="#fff">
+                <mj-column width="61%" css-class="copyright-fix">
+                    <mj-text font-family="Arial" padding="0px 0px 0px 0px" align="left" font-size="11px" line-height="13px">
+                        <p style="margin:0 0 0px 0;text-align:left;">© 2023 Plain Green Loans. All Rights Reserved.</p>
+                    </mj-text>
+                    <mj-spacer height="30px"></mj-spacer>
+                </mj-column>
+                <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+                    <mj-image href="https://www.plaingreenloans.com/resources/about-us/" padding="0px 0px 0px 0px" align="right" width="50px" height="50px" alt="Chippewa Cree Tribe logo" src="https://nm.my605lending.com/assets/footer-logo.png"></mj-image>
+                </mj-column>
+                <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+                    <mj-image href="https://www.facebook.com/PlainGreenLLC" alt="Facebook logo" padding="0px 0px 0px 0px" align="right" width="38px" height="38px" src="http://sendy.yourcreditninja.com/sendy/uploads/1685459041.png"></mj-image>
+                </mj-column>
+              <mj-column width="13%" css-class="icon-fix" vertical-align="middle" css-class="check-fix">
+        <mj-image href="https://www.youtube.com/channel/UC5UMuK78o1sqOQdn1tugaIA" alt="youtube" padding="0px 0px 0px 0px" align="right" width="38px" src="http://sendy.yourcreditninja.com/sendy/uploads/1685459008.png"></mj-image>
+      </mj-column>
+            </mj-section>
+      </mj-wrapper>
+         
+    </mj-body>
+  </mjml>
